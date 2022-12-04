@@ -1,1 +1,1 @@
-sinusoida
+cosinus
